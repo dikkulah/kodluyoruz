@@ -9,6 +9,7 @@ public class InsertionShort {
         int n = arr.length;
         for (int j : arr) System.out.print(j + " ");
         System.out.println();
+
     }
     static void insertionSort(int[] arr) {
         int n = arr.length;
